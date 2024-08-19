@@ -3,8 +3,6 @@
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 
-```
-
 ## Steps
 
 ### 1. Clone Repository
